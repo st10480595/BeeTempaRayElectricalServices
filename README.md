@@ -11,3 +11,17 @@ Responsive – optimized for desktop, tablet, and mobile
 Informative – includes service details, contact info, and company background
 
 Accessible – compliant with web standards for a wide audience
+
+Features
+
+Homepage – introduction, highlights, and call-to-action
+
+About Us – company history, mission, and values
+
+Services – breakdown of residential, commercial, and industrial electrical services
+
+Contact Page – contact form, phone, email, and location map
+
+Emergency Services – quick access for 24/7 call-outs
+
+SEO Ready – optimized for search engines to increase visibility
